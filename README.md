@@ -37,7 +37,7 @@ See my talks on [Sessionize](https://sessionize.com/parul-singh/).
 
 #### Other Things
 
-- Patent Inventor (Red Hat, 2022)
+- Red Hat Patent Program Inventor
 - IBM Quantum Associate Ambassador
 - Contributor to CNCF Environmental Sustainability Working Group
 
