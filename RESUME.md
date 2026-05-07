@@ -45,7 +45,7 @@ Principal Software Engineer with 10+ years of experience in cloud-native infrast
 ## Speaking
 
 - **[PyTorch Conference Europe 2026](https://pytorchconferenceeu2026.sched.com/event/2Hin9/why-classic-iam-collapses-for-agents-rethinking-iam-for-agentic-systems-parul-singh-red-hat)** — Why Classic IAM Collapses for Agents: Rethinking IAM for Agentic Systems
-- **KubeCon + CloudNativeCon Europe 2024** — Energy Observability using Kepler
+- **[KubeCon + CloudNativeCon Europe 2024](https://kccnceu2024.sched.com/event/1YeP1/empowering-efficiency-peaks-orchestrating-power-aware-kubernetes-scheduling-parul-singh-red-hat-krishnasuri-narayanam-ibm)** — Empowering Efficiency: PEAKS — Orchestrating Power-Aware Kubernetes Scheduling
 - **CNCF North America 2023** — PEAKS: Power-Aware Kubernetes Scheduling
 - **Open Source Summit Europe 2022**
 - **Red Hat DevConf US & CZ** — Multiple sessions
