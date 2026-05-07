@@ -52,6 +52,13 @@ Principal Software Engineer with 10+ years of experience in cloud-native infrast
 
 ---
 
+## Blog Posts
+
+- [Zero Trust for Autonomous Agentic AI Systems: Building More Secure Foundations](https://next.redhat.com/2026/02/26/zero-trust-for-autonomous-agentic-ai-systems-building-more-secure-foundations/) — Red Hat, 2026
+- [Embracing Edge Computing with Kepler](https://tag-env-sustainability.cncf.io/blog/2023-embracing-edge-computing-with-kepler/) — CNCF TAG Environmental Sustainability, 2023
+
+---
+
 ## Patents & Awards
 
 - Red Hat Patent Program Inventor — Level 1 (2022) + Patent Pending (2023)
