@@ -46,9 +46,8 @@ Principal Software Engineer with 10+ years of experience in cloud-native infrast
 
 - **[PyTorch Conference Europe 2026](https://pytorchconferenceeu2026.sched.com/event/2Hin9/why-classic-iam-collapses-for-agents-rethinking-iam-for-agentic-systems-parul-singh-red-hat)** — Why Classic IAM Collapses for Agents: Rethinking IAM for Agentic Systems
 - **[KubeCon + CloudNativeCon Europe 2024](https://kccnceu2024.sched.com/event/1YeP1/empowering-efficiency-peaks-orchestrating-power-aware-kubernetes-scheduling-parul-singh-red-hat-krishnasuri-narayanam-ibm)** — Empowering Efficiency: PEAKS — Orchestrating Power-Aware Kubernetes Scheduling
-- **CNCF North America 2023** — PEAKS: Power-Aware Kubernetes Scheduling
-- **Open Source Summit Europe 2022**
-- **Red Hat DevConf US & CZ** — Multiple sessions
+- **[Open Source Summit Europe 2022](https://osseu2022.sched.com/event/15z4g/monitoring-energy-consumption-and-building-energy-efficient-systems-the-cloud-native-way-parul-singh-red-hat)** — Monitoring Energy Consumption and Building Energy Efficient Systems the Cloud Native Way
+- **DevConf US & CZ**
 
 ---
 
@@ -75,10 +74,12 @@ Northeastern University, Boston — M.S. Computer Science (AI & Distributed Comp
 
 ## Technical Skills
 
-**Infrastructure:** Kubernetes, OpenShift, CRI-O, MicroShift, Podman, Docker
-**Observability:** eBPF, OpenTelemetry, Prometheus, Grafana, Kepler
-**Languages:** Go, Python, Shell, TypeScript
-**AI/ML:** PyTorch, ML-based scheduling, model cards, agentic systems
-**Security:** Zero-trust architectures, OAuth2/Keycloak, OCI supply chain, SPIFFE/SPIRE
-**Cloud:** AWS, GCP, bare metal, edge deployments
-**Other:** Argo CD, GitHub Actions, Chaos Engineering, Spark, Blockchain
+| Area | Technologies |
+|------|-------------|
+| Infrastructure | Kubernetes, OpenShift, CRI-O, MicroShift, Podman, Docker |
+| Observability | eBPF, OpenTelemetry, Prometheus, Grafana, Kepler |
+| Languages | Go, Python, Shell, TypeScript |
+| AI/ML | PyTorch, ML-based scheduling, model cards, agentic systems |
+| Security | Zero-trust architectures, OAuth2/Keycloak, OCI supply chain, SPIFFE/SPIRE |
+| Cloud | AWS, GCP, bare metal, edge deployments |
+| Other | Argo CD, GitHub Actions, Chaos Engineering, Spark, Blockchain |
