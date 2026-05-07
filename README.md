@@ -17,6 +17,16 @@ I work at the intersection of **AI agent security**, **cloud-native infrastructu
 
 ---
 
+#### Recent Work
+
+- **[Trust Graph Dataplane](https://github.com/husky-parul/trust-graph-dataplane)** — Building a trust-aware authorization dataplane for agentic systems with DAG-based delegation and AuthBroker RFC
+- **[Llama Zero-Trust Stack](https://github.com/redhat-et/llama-zt-stack/pull/1)** — Added MCP Weather Tool with scope-based access control to the Llama zero-trust stack
+- **[Kepler Maintainership](https://github.com/cncf/foundation/pull/852)** — Maintaining Kepler in the CNCF, including validation exports and power model improvements
+- **[PEAKS Benchmarks](https://github.com/sustainable-computing-io/peaks/pull/49)** — Published performance benchmarks for power-efficiency-aware Kubernetes scheduling
+- **[Agent Registry](https://github.com/husky-parul/agent-registry)** — Experimenting with trust graph decision surfaces and zero-instrumentation agent lineage via OpenTelemetry
+
+---
+
 #### Speaking
 
 I've spoken at **KubeCon + CloudNativeCon**, **PyTorch Conference**, **Open Source Summit**, and **Red Hat DevConf** (US & CZ) on topics including energy observability, power-aware scheduling, AI model transparency, and secure agentic systems.
