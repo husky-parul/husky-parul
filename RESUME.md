@@ -18,7 +18,7 @@ Principal Software Engineer with 10+ years of experience in cloud-native infrast
 
 **Agentic AI Security & Infrastructure (2024 – Present)**
 - Lead the ADLC (Agent Development Lifecycle) SIG in CoSAI (Coalition for Secure AI), an OASIS Open project with members including Google, Microsoft, OpenAI, and Anthropic
-- Designed and proposed a trust-aware authorization dataplane for multi-hop agentic workflows (agent → tool → resource), accepted in both CoSAI WS4 and the kagenti community
+- Designed and proposed a trust-aware authorization dataplane for multi-hop agentic workflows (agent → tool → resource), accepted in both [CoSAI WS4](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/issues/50) and the [kagenti](https://github.com/kagenti/kagenti/issues/922) community
 - Built agent registry with trust graph decision surfaces and zero-instrumentation agent lineage using OpenTelemetry
 - Developed MCP tool integration with scope-based access control for the Llama zero-trust stack
 
