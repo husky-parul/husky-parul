@@ -1,6 +1,6 @@
 ### Hi, I'm Parul Singh
 
-Principal Software Engineer at **Red Hat**, Office of the CTO.
+Principal Software Engineer at Red Hat, Office of the CTO.
 
 I work at the intersection of **AI agent security**, **cloud-native infrastructure**, and **sustainability**. My focus is on trust, identity, and observability for autonomous AI agents — building systems where machines can prove who they are, what they're allowed to do, and how much energy they burn doing it.
 
